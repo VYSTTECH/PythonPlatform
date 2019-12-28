@@ -1,1 +1,1 @@
-# fastai-courses
+# ml-courses
